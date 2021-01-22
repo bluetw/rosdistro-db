@@ -36,6 +36,10 @@ libazure-iot-sdk-c:
   windows:
     vcpkg:
       packages: [azure-iot-sdk-c]
+libpcap:
+  windows:
+    vcpkg:
+      packages: [npcap]
 graphicsmagick:
   windows:
     vcpkg:
