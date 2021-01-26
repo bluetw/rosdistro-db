@@ -39,7 +39,7 @@ libazure-iot-sdk-c:
 libpcap:
   windows:
     vcpkg:
-      packages: [winpcap]
+      packages: [libpcap]
 graphicsmagick:
   windows:
     vcpkg:
